@@ -36,7 +36,7 @@ I’m a passionate full-stack developer and data scientist, with a love for buil
 
 ## ⚡ Fun Facts
 
-- 🥋 I practice Taekwondo.
+- 🥋 I competed on the regional and national levels for collegiate Taekwondo.
 - 🍰 I love baking and experimenting with new recipes.
 - 📸 I enjoy photography—capturing moments both big and small.
 
