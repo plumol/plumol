@@ -1,32 +1,29 @@
 # Hi, I’m Kyle Lam! 👋
 
-I’m a passionate full-stack developer and data scientist, with a love for building innovative software and uncovering insights from data.
+I’m an early career full-stack developer and data scientist, with a focus on software infrastructure and research.
 
 ## 👨‍💻 What I Do
 
 - **Full-Stack Development:** Creating seamless, scalable web applications from front-end to back-end.
+  - Examples include: a platform for computational biologists to catalogue, launch, and monitor data workflows.
 - **Data Science & Machine Learning:** Solving real-world problems using data-driven methods and advanced ML models.
 - **Project Highlights:**  
-  - [ASL Recognition](#): Applying computer vision and machine learning to recognize American Sign Language gestures.  
+  - [ASL Recognition](#): Applying computer vision and machine learning to recognize American Sign Language gestures.
+  - [Indoor scene reconstruction](#): Orchestrating a workflow to reconstruct indoor scenes to configurable 3D meshes with object flexibility.
+  - [Semantic queries for OLAP](#): Applying LLMs to enable natural language OLAP quries to streamline data analytics for non-technical users.
   - [Open to recommendations! Suggest a project for me to highlight here.]
 
 ## 🛠️ Skills
 
-- Programming: Python, JavaScript (Node.js, React), Java, SQL
-- Data Science: pandas, NumPy, scikit-learn, TensorFlow
+- Programming: Python, JavaScript (Node.js, React), C++, SQL
+- Data Science: pandas, NumPy, scikit-learn, TensorFlow, Apache Spark
 - Machine Learning: Deep Learning, Computer Vision, NLP
-- Tools: Git, Docker, Jupyter, AWS
-
-## 🌟 Featured Projects
-
-- **ASL Recognition:** Built a machine learning-powered system to interpret American Sign Language gestures.
-- **[Your Next Project Here!]**  
-  _Let me know if you have a cool open-source project suggestion!_
+- DevOps & Cloud: Git, Docker, Github Actions AWS
 
 ## 🌱 Currently Learning
 
-- Advanced deep learning techniques
-- Cloud-native data pipelines
+- Advanced deep learning areas and applications (SSL, computer vision, databases)
+- Cloud-native data pipelines (DevOps, infrastructure focus)
 - New baking recipes (for fun!)
 
 ## 📫 Connect with Me
