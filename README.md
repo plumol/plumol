@@ -34,8 +34,8 @@ I’m an early career full-stack developer and data scientist, with a focus on s
 ## ⚡ Fun Facts
 
 - 🥋 I competed on the regional and national levels for collegiate Taekwondo.
-- 🍰 I love baking and experimenting with new recipes.
-- 📸 I enjoy photography—capturing moments both big and small.
+- 🍰 I love baking and experimenting with new recipes (mostly cookies!).
+- 📸 I do both sports and portrait photography!
 
 ---
 
