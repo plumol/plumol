@@ -1,11 +1,12 @@
 # Hi, I’m Kyle Lam! 👋
 
-I’m an early career full-stack developer and data scientist, with a focus on software infrastructure and research.
+I’m an early career full-stack developer and data scientist, with a focus on software infrastructure, research, and open-source software.
 
 ## 👨‍💻 What I Do
 
 - **Full-Stack Development:** Creating seamless, scalable web applications from front-end to back-end.
   - Examples include: a platform for computational biologists to catalogue, launch, and monitor data workflows.
+  - Open source contributions: streamlit
 - **Data Science & Machine Learning:** Solving real-world problems using data-driven methods and advanced ML models.
 - **Project Highlights:**  
   - [ASL Recognition](#): Applying computer vision and machine learning to recognize American Sign Language gestures.
